@@ -1,0 +1,15 @@
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\bin\Debug\net6.0\AccountFinance.exe
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\bin\Debug\net6.0\AccountFinance.deps.json
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\bin\Debug\net6.0\AccountFinance.runtimeconfig.json
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\bin\Debug\net6.0\AccountFinance.dll
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\bin\Debug\net6.0\AccountFinance.pdb
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\obj\Debug\net6.0\AccountFinance.csproj.AssemblyReference.cache
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\obj\Debug\net6.0\AccountFinance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\obj\Debug\net6.0\AccountFinance.AssemblyInfoInputs.cache
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\obj\Debug\net6.0\AccountFinance.AssemblyInfo.cs
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\obj\Debug\net6.0\AccountFinance.csproj.CoreCompileInputs.cache
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\obj\Debug\net6.0\AccountFinance.dll
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\obj\Debug\net6.0\refint\AccountFinance.dll
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\obj\Debug\net6.0\AccountFinance.pdb
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\obj\Debug\net6.0\AccountFinance.genruntimeconfig.cache
+C:\Users\rsoar\www\backend\dotnet\firstwebapp\AccountFinance\AccountFinance\obj\Debug\net6.0\ref\AccountFinance.dll
